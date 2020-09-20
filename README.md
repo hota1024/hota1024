@@ -3,4 +3,5 @@
 
 - [Portfolio](https://me.hota1024.com)
 - [Qiita](https://qiita.com/hota1024)
+- [Scratch](https://scratch.mit.edu/users/hota1024)
 - [Twitter](https://twitter.com/hota1024)
