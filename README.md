@@ -12,4 +12,5 @@ TypeScript/Next.js/OpenSiv3D
 - [Zenn](https://zenn.dev/hota1024)
 - [Scratch](https://scratch.mit.edu/users/hota1024)
 - [Twitter](https://twitter.com/hota1024)
+- [Youtube](https://www.youtube.com/channel/UCB2Nqti-QsC-pf09_xsypkQ)
 - Discord `hota1024#1024`
