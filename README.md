@@ -1,6 +1,8 @@
 ### Skills
 
-TypeScript/Next.js/OpenSiv3D
+- TypeScript
+- Next.js
+- OpenSiv3D
 
 ### Links
 
